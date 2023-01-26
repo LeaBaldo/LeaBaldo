@@ -1,17 +1,5 @@
 
 <!--
-**LeaBaldo/LeaBaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I play Sax 🎷
 -->
 
 <h2>Hi there <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"></h2>
@@ -31,6 +19,11 @@ Here are some ideas to get you started:
 <p>
 <a href="mailto:leandrofbaldo@gmail.com" target="_blank">leandrofbaldo@gmail.com</a>
 </p>
+<p>
+  <a href="https://www.linkedin.com/in/leandrobaldo-developer/" target="_blank"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="javascript" heigth="40" width="40px"/>
+
+  </a>
 
 ---
 

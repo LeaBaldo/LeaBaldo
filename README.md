@@ -13,7 +13,6 @@
 - 👯 I’m looking to get myself into a challenging job position!
 - ⚡ Fun fact: I love riding a bike and play Sax 🎷
 
----
 
 <h3>Contact me:</h3> 📫  
 <p>

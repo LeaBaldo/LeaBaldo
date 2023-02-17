@@ -14,9 +14,10 @@
 - ⚡ Fun fact: I love riding a bike and play Sax 🎷
 
 
-<h3>Contact me:</h3> 📫  
+<h3>Contact me: 📫</h3> 
 <p>
-  <a href="mailto:leandrofbaldo@gmail.com">leandrofbaldo@gmail.com</a>
+  
+- <a href="mailto:leandrofbaldo@gmail.com">leandrofbaldo@gmail.com</a>
 </p>
 <p>
   <a href="https://www.linkedin.com/in/leandrobaldo-developer/" target="_blank" rel="noreferrer"> 

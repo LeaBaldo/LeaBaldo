@@ -9,10 +9,14 @@
 
 
 
-- 🌱 I’m currently studying ReactJS 🚀
+- 🌱 I’m currently learning ReactJS 🚀
 - 👯 I’m looking to get myself into a challenging job position!
 - ⚡ Fun fact: I love riding a bike and play Sax 🎷
 
+* 🌍 Deployed:
+* <ul>
+    <li><a href="https://labrasseria.it/menu.html">Brasseria Menu restó</a>
+  </ul>
 
 <h3>Contact me: 📫</h3> 
 <p>
